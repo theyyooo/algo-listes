@@ -1,0 +1,9 @@
+<map id="test_queue" name="test_queue">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,100,159"/>
+<area shape="rect" id="node2" href="$queue_8c.html#a119efee68b4d232dd411a5ca2ca3327b" title="remet à 0 la liste" alt="" coords="162,5,263,32"/>
+<area shape="rect" id="node3" href="$queue_8c.html#a963c35fdb8a91292169e3c65dfa6b56b" title="supprime la première valeur et décale tout le tableau" alt="" coords="173,56,252,83"/>
+<area shape="rect" id="node4" href="$queue_8c.html#aee4cdc64e4fb038915201bb5f481dcc0" title="ajoute une valeur à la première case tout en déplaceant le reste" alt="" coords="173,107,252,133"/>
+<area shape="rect" id="node5" href="$queue_8c.html#a0285b50c50dd0dcc29b712684d2569c7" title="affiche la première valeur" alt="" coords="186,157,239,184"/>
+<area shape="rect" id="node6" href="$queue_8c.html#a25919c655a65e609b77096197881ec15" title="initialise la liste" alt="" coords="167,208,258,235"/>
+<area shape="rect" id="node7" href="$queue_8c.html#a813806bdcfc85411e001285c7607f3ef" title="test sur le contenue" alt="" coords="148,259,277,285"/>
+</map>
