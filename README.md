@@ -1,1 +1,2 @@
-# algo-listes
+# PROJET DE DIFFÉRENTS TYPES DE LISTES
+### by POLETTE Théo
